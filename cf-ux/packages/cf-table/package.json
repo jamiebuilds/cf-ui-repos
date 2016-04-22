@@ -1,0 +1,8 @@
+{
+  "name": "cf-table",
+  "version": "1.0.0",
+  "dependencies": {
+    "cf-component-table": "^1.0.0",
+    "react": "^0.14.2"
+  }
+}
